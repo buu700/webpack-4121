@@ -1,0 +1,19 @@
+{
+	"name": "tab-indent",
+	"version": "1.0.2",
+	"description": "Mirror of https://github.com/julianlam/tabIndent.js",
+	"main": "js/tabIndent.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/julianlam/tabIndent.js.git"
+	},
+	"keywords": [
+		"tab",
+		"indent"
+	],
+	"author": "Ryan Lester <hacker@linux.com> (https://github.com/buu700)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/julianlam/tabIndent.js/issues"
+	}
+}
